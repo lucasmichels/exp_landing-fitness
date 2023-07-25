@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This project is a Landing Page for fitness program.
+This project is a Landing Page for a fitness program.
 
 
 ## Page Screenshot
